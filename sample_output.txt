@@ -1,0 +1,9 @@
+Project Euler #182:
+The sum is: 399788195976
+The time taken to execute #182: 4.26934843816
+Project Euler #225:
+124th non-divisor is: 2009
+The time taken to execute the #225: 0.126399860743
+Project Euler #429:
+The result is: 98792821
+The time taken to execute the #429: 23.918403894
